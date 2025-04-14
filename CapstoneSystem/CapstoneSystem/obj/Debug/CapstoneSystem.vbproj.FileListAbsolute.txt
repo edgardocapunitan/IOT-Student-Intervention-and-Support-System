@@ -1,0 +1,141 @@
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe.config
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.exe
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.xml
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.pdb
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.pdb
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.xml
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbprojResolveAssemblyReference.cache
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form1.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form10.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form11.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form12.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form13.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form14.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form2.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form3.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form4.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form5.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form6.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form7.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form8.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form9.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Resources.resources
+E:\4th year na ko\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbproj.GenerateResource.Cache
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe.config
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.exe
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.xml
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.pdb
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbprojResolveAssemblyReference.cache
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form1.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form10.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form11.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form12.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form13.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form14.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form2.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form3.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form4.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form5.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form6.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form7.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form8.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form9.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Resources.resources
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbproj.GenerateResource.Cache
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.pdb
+F:\capstone 1 - file\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.xml
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe.config
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.exe
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.xml
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.pdb
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe.manifest
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.application
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.pdb
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.xml
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form1.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form10.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form11.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form12.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form13.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form14.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form15.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form16.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form17.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form18.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form2.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form3.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form4.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form5.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form6.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form7.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form8.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form9.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Resources.resources
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbproj.GenerateResource.Cache
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.exe.manifest
+C:\Users\EDUARDO\Documents\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.application
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbproj.ResolveComReference.cache
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form1.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form10.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form11.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form12.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form13.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form14.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form15.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form16.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form17.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form18.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form19.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form2.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form20.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form21.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form22.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form23.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form24.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form25.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form3.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form4.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form5.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form6.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form7.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form8.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form9.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Resources.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbproj.GenerateResource.Cache
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe.config
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe.manifest
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.application
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.exe
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.pdb
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\CapstoneSystem.xml
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\Antlr3.Runtime.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\mysql.data.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\mysql.data.entity.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\MySql.Debugger.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\MySql.Debugger.VisualStudio.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\MySql.Parser.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\mysql.visualstudio.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\mysql.web.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.exe.manifest
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.application
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.exe
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.xml
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.pdb
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbprojResolveAssemblyReference.cache
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\itextsharp.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\bin\Debug\PdfSharp.dll
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form26.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form27.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form28.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form29.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form30.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form31.resources
+C:\Users\EDUARDO\Desktop\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.Form32.resources
+F:\capstone 1 - file\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.vbprojResolveAssemblyReference.cache
+F:\capstone 1 - file\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.exe
+F:\capstone 1 - file\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.xml
+F:\capstone 1 - file\BACK UP BAKA MABURA e\CapstoneSystem\CapstoneSystem\obj\Debug\CapstoneSystem.pdb
